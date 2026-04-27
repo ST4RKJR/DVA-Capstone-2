@@ -14,4 +14,5 @@ UCI Online Retail Dataset
 ## Project Structure
 - data/raw → original dataset
 - data/processed → cleaned dataset
-- notebooks → ETL & analysis
+- notebooks → ETL & analysis.  
+
