@@ -110,38 +110,6 @@ https://public.tableau.com/views/OnlineRetail_SalesAnalytics/Dashboard1
 
 ---
 
-## 📁 Project Structure
-DVA-Capstone-2/
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── notebooks/
-│ ├── cleaning.ipynb
-│ ├── eda.ipynb
-│ ├── statistical_analysis.ipynb
-│ └── final_load_prep.ipynb
-│
-├── tableau/
-│ ├── screenshots/
-│ └── dashboard_links.md
-│
-├── reports/
-│ ├── project_report.pdf
-│ └── presentation.pptx
-│
-├── docs/
-│ └── data_dictionary.md
-│
-├── scripts/
-│ └── etl_pipeline.py
-│
-└── README.md
-
-
----
-
 ## 💡 Business Recommendations
 
 - Launch early Q4 campaigns  
